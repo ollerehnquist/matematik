@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Matematik
 
 You can use the [editor on GitHub](https://github.com/ollerehnquist/matematik/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
